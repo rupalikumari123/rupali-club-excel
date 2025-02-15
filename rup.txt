@@ -3,4 +3,5 @@ i study in nist university
 i am chnged by rupali
 chnaged for github 
 hello rupali 
-i am on leraning merge conlict
+i am rupali branch lerarning merge conflict
+
